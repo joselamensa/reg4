@@ -21,7 +21,7 @@ body {
 }
 
 .seccionuno {
-    background-image: url('../../imgs/reg4/fondo1pc.webp');
+    background-image: url('../fondo1pc.webp');
     background-size: cover;
     background-position: center;
     height: 85vh;
@@ -129,7 +129,7 @@ body {
 .seccionmobile {
     min-height: 90vh;
     background-color: rgb(255, 255, 255);
-    background-image: url('../../imgs/reg4/Rectangle\ 192.png');
+    background-image: url('../fondo1mobile.png');
     background-position: 99% 99%;
     background-repeat: no-repeat;
     background-size: cover;
